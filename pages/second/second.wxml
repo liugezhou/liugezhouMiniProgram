@@ -1,0 +1,4 @@
+<!--pages/second.wxml-->
+<view class="main">
+    <block>System:{{sys}}---011100</block>
+</view>
