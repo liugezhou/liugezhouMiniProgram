@@ -1,12 +1,14 @@
 {
   "pages": [
     "pages/start/start",
-    "pages/index/index"
+    "pages/index/index",
+    "pages/me/me"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000000",
     "navigationBarTitleText": "六个周",
     "navigationBarTextStyle": "black"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
