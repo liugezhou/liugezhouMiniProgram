@@ -1,0 +1,118 @@
+.width100{
+  width:100%
+}
+.width95{
+  width:95%
+}
+.width90{
+  width:90%
+}
+.width85{
+  width:85%
+}
+.width80{
+  width:80%
+}
+.width75{
+  width:75%
+}
+.width70{
+  width:70%
+}
+.width65{
+  width:65%
+}
+.width60{
+  width:60%
+}
+.width55{
+  width:55%
+}
+.width50{
+  width:50%
+}
+.width45{
+  width:45%
+}
+.width40{
+  width:40%
+}
+.width35{
+  width:35%
+}
+.width30{
+  width:30%
+}
+.width25{
+  width:25%
+}
+.width20{
+  width:20%
+}
+.width10{
+  width:10%
+}
+.width5{
+  width:5%
+}
+.height100{
+  height:100%;
+}
+.height50{
+  height:50%;
+}
+.font26{
+  font-size: 26rpx
+}
+.font28{
+  font-size:28rpx;
+}
+.font30{
+  font-size:30rpx;
+}
+.font32{
+  font-size:32rpx;
+}
+.font35{
+  font-size:35rpx;
+}
+.font40{
+  font-size:40rpx;
+}
+.font45{
+  font-size:45rpx;
+}
+.fwb{
+  font-weight: bold;
+}
+.tal{
+  text-align: left;
+}
+.tac{
+  text-align: center;
+}
+.tar{
+  text-align: right;
+}
+.xmzx{
+  padding:30rpx 12rpx;
+}
+.shuicon{
+  height:30rpx;
+  border:6rpx solid #f25b3c;
+  background:#f25b3c;
+}
+.emptyblock{
+  background-color: #f5f4f9;
+  height:30rpx;
+}
+.indexbottom{
+  height:150rpx;
+  line-height: 150rpx;
+  background-color: #f5f4f9;
+  padding:20rpx 0 60rpx 0;
+}
+.bottomimg{
+  height:65rpx;
+  line-height: 50rpx;
+}
