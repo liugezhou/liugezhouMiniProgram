@@ -1,0 +1,31 @@
+.main{
+  position: absolute;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+}
+.start-img{
+  width: 100%;
+  height: 100%;
+}
+.version{
+  position: fixed;
+  bottom:2%;
+  right:3%;
+  color:white;
+  font-size:30rpx;
+  font-weight: bold
+}
+.start_story_text{
+  position: fixed;
+  top:15%;
+  left:15%;
+  color:white;
+}
+.start_story_text2{
+  position: fixed;
+  top:20%;
+  left:15%;
+  color:white;
+}

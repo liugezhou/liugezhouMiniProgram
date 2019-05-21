@@ -1,0 +1,9 @@
+<view class="main">
+  <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558009600454&di=a7e75fb4945c8e9c624a2054c7acbe10&imgtype=0&src=http%3A%2F%2Fku.90sjimg.com%2Fback_pic%2F05%2F17%2F06%2F5859b87808dd19f.jpg%2521%2Ffwfh%2F804x1205%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue" class="start-img"></image>
+  
+   <view class="start_story_text">{{text}}</view>
+  <view class="start_story_text2">{{text2}}</view>
+  <view class="version">
+      2019/05/20 0.0.1
+  </view>
+</view>
