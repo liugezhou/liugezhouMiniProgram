@@ -3,7 +3,11 @@
   
    <view class="start_story_text">{{text}}</view>
   <view class="start_story_text2">{{text2}}</view>
+  <view class="start_story_text3">{{text3}}</view>
+  <view class="start_story_text4">{{text4}}</view>
+
+    <view class="robot" bindtap="goNext"></view>
   <view class="version">
-      2019/05/20 0.0.1
+      2019/06/17 0.0.1
   </view>
 </view>

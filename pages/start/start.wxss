@@ -26,6 +26,34 @@
 .start_story_text2{
   position: fixed;
   top:20%;
-  left:15%;
+  left:3%;
   color:white;
+  text-indent:90rpx;
+  line-height: 80rpx;
+  font-size: 40rpx;
+}
+.start_story_text3{
+  position: fixed;
+  top:30%;
+  left:3%;
+  color:white;
+  text-indent:90rpx;
+  line-height: 80rpx;
+  font-size: 40rpx;
+}
+.start_story_text4{
+  position: fixed;
+  top:45%;
+  left:3%;
+  color:white;
+  text-indent:90rpx;
+  line-height: 80rpx;
+  font-size: 40rpx;
+}
+.robot{
+  position: fixed;
+  height:550rpx;
+  width:200rpx;
+  bottom:6%;
+  right:5%;
 }
